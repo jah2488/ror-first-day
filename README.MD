@@ -1,3 +1,9 @@
 # First Day At THE IRON YARD #
 
-Intro to Ruby and eventaully Rails
+Intro to __RUBY__
+
+
+
+
+
+(_also git_)
